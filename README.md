@@ -1,2 +1,3 @@
 # file_transfer_base_tcp
 file_transfer_base_tcp
+模拟tftp功能基于socket tcp编写的文件传输程序，包含客户端和服务端，服务端支持多个客户端连接。
